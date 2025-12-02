@@ -1,4 +1,5 @@
-Step1 --> create folder ki class-1-onsite -->.gemini install ke folder me phir open karen ge terminal me hum gemini.md ki file 2 nazar ayen gi .1 gemini.md ki file hum khud create kareng terminal me duri gemini.md ju hum ne gemini install kia hai
+https://geminicli.com/docs/get-started/deployment/ ---> npm install -g @google/gemini-cli
+Step1 --> create folder ki class-1-onsite -->.gemini install ke folder me phir open karen ge terminal me hum gemini.md ki file 2 nazar ayen gi .1 gemini.md ki file hum khud create kareng terminal me dusri gemini.md ju hum ne gemini install kia hai
 
 GEMINI.md  ---> file
 
@@ -90,4 +91,5 @@ After transfering the amount, the amount should be deducted from the sender and 
 After bank-transfer hit the authenticate with route again with the name of the person to whom you have transfered the amount.
 
 After authenticating from the receiver's account you should be able to see the amount added to the person bank_balance"# FastAPI_Deposit-Module_Gemini_CLI" 
+
 # FASTAPI-develop-a-Banking-System
